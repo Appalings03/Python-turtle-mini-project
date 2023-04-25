@@ -4,4 +4,7 @@
 
 20/04 Operators
 
-20/04 Condition
+25/04 Conditions
+
+25/04 Fonctions
+
