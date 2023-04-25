@@ -8,3 +8,4 @@
 
 25/04 Fonctions
 
+25/04 Randomness
